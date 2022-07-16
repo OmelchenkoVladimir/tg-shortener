@@ -1,0 +1,6 @@
+{
+    "url_shortener": {
+        "host": "localhost",
+        "port": "1234"
+    }
+}
